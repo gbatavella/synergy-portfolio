@@ -51,7 +51,46 @@ El ecosistema subyacente que potencia estos motores se nutre de múltiples lengu
 28. **synergy_canary_node.py**: Gemini Model Scanner. Diagnóstico de Entorno, Validación de Bóveda y API Authentication.
 29. **synergy_decision_maker_profiler.py**: LinkedIn Dorking. Enriquecimiento de Datos, Resolución de Identidad y State Checkpointing.
 30. **synergy_mechanic_healthcheck.py**: Pre-Flight Health Checker. DevOps, SRE, Validación AST y Auditoría de Entorno (Pre-Deployment).
-
+31. **lord_balancer.py**: Synergy Lord Balancer (Cognitive Routing). Enrutamiento LLM y Generación de Copywriting High-Ticket.
+32. **synergy_supreme_auditor.py**: Synergy Supreme Auditor (Sonnet Logic Engine). Procesamiento Lógico Superior y Destrucción de Falacias.
+33. **synergy_load_balancer.py**: Synergy Load Balancer (API Health & Fallback). Orquestación de Infraestructura y Alta Disponibilidad (HA).
+34. **synergy_lan_sentinel.py**: Synergy LAN Sentinel (Zero-Trust Network Recon). Seguridad Perimetral, OPSEC Local y Auditoría de Red.
+35. **synergy_goalkeeper_sender.py**: Synergy Goalkeeper Sender (Proton E2EE). Outbound B2B, Conversión High-Ticket y Evasión Anti-Spam.
+36. **synergy_apollo_extractor.py**: Synergy Apollo Extractor (CRM Parser). Enriquecimiento de Datos (Data Enrichment) e Ingestión CRM.
+37. **synergy_cover_fire.py**: Synergy Cover Fire (Actor-Critic Generator). Generación de Copywriting B2B Masivo y Control de Calidad Autónomo.
+38. **synergy_cover_fire_v2.py**: Synergy Cover Fire V2 (Pandas & Self-Reflection). Generación Masiva B2B, Data Wrangling y Calibración Autónoma.
+39. **synergy_cover_fire_calibrated.py**: Synergy Cover Fire (Calibrated Edition). Outbound B2B, Generación Actor-Crítico y Calibración de Prompts.
+40. **synergy_sniper_assembler.py**: Synergy Sniper Assembler (Prompt Unit Test). Prompt Engineering, QA (Control de Calidad) y Pre-Despliegue.
+41. **synergy_tf_master_bridge.py**: Synergy TF Master Bridge (Keras Monkey Patch). MLOps, Estabilización de Entorno y Computer Vision.
+42. **synergy_mind_thief.py**: Synergy Mind Thief (LinkedIn Profiler). OSINT, Ingesta de Datos No Estructurados y Reconocimiento B2B.
+43. **synergy_target_ingestor.py**: Synergy Target Ingestor (Web Combat Scaffold). Ingesta de Datos, Sandboxing y Preparación de Reconocimiento.
+44. **synergy_rapid_harvester.py**: Synergy Rapid Harvester (Regex Email Scraper). OSINT, Email Harvesting y Enriquecimiento de Datos a Alta Velocidad.
+45. **synergy_semantic_scraper.py**: Synergy Semantic Scraper (SmartGraph Web Parser). Enriquecimiento Estructural, OSINT y Data Parsing.
+46. **synergy_broad_match_radar.py**: Synergy Broad Match Radar (Logistics OSINT). Generación de Demanda, Mapeo de Corredores Logísticos (Top of Funnel).
+47. **synergy_elite_communicator.py**: Synergy Elite Communicator (Voice AI Tutor). Entrenamiento de Fluidez (Upskilling) y Voice AI Coaching.
+48. **dorks_sw4_point.py**: Synergy Logistics Dork Matrix (Targeting Payload). OSINT, Configuración de Segmentación y Mapeo Geográfico.
+49. **synergy_smtp_ballistic_test.py**: Synergy SMTP Ballistic Test (Zero-Friction Payload). Infraestructura Outbound, QA de Entregabilidad y Configuración SMTP.
+50. **synergy_cover_fire_sandbox.py**: Synergy Cover Fire Sandbox (LLM Debugger). MLOps, Prompt Debugging y Control de Calidad Cognitiva (QA).
+51. **synergy_canary_monitor.py**: Synergy Canary Monitor (DOM Health Checker). DevOps, SRE, Monitoreo de Infraestructura y Prevención de Fallos.
+52. **synergy_ip_canary.py**: Synergy IP Canary (Identity Footprint Guard). OPSEC, Prevención de Baneos y Auditoría Pre-Despliegue.
+53. **synergy_chameleon_killswitch.py**: Synergy Chameleon (Selective Kill Switch). SecOps, Prevención de Fugas de Red (VPN/Proxy Leaks) y Sandboxing.
+54. **synergy_fawkes_calibrator.py**: Synergy Fawkes Calibrator (Source Code Hotfix). MLOps, Dependency Resolution y Self-Healing Infrastructure.
+55. **synergy_persistent_osint.py**: Synergy Persistent OSINT (HITL & Session Memory). OSINT, Data Enrichment y Evasión de CAPTCHAs.
+56. **synergy_headless_osint.py**: Synergy Headless OSINT (Playwright Dorking). OSINT a Gran Escala, Data Enrichment B2B y Generación de Leads.
+57. **synergy_lite_osint.py**: Synergy Lite OSINT (DDG No-JS Exploiter). OSINT Rápido, Data Enrichment y Evasión de Bloqueos (WAF Bypass).
+58. **arsenal_mision_sw4.py**: Synergy B2C Mission Payload (SW4 Sniper Matrix). OSINT B2C, Configuración de Prospección Social y Filtrado de Intención.
+59. **arsenal_b2c.py**: Synergy Omni-Niche Payload (B2C Social Matrix). OSINT B2C, Orquestación Multi-Nicho y Liquidación de Activos.
+60. **synergy_ares_delta_osint.py**: Synergy Ares Delta (Undetected OSINT Scraper). OSINT B2B High-Ticket, Evasión Avanzada de WAF y Data Parsing.
+61. **synergy_ares_xray.py**: Synergy Ares X-Ray (Social OSINT Evaluator). OSINT Social, Generación de Leads B2B/SaaS y Clasificación Cognitiva.
+62. **synergy_terminal_simulator.py**: Synergy Terminal Simulator (B-Roll Generator). Marketing Técnico, VSL Production y Generación de Demos.
+63. **synergy_sales_engine_app.py**: Synergy Autonomous Sales Engine (Streamlit RaaS Platform). Comercialización RaaS, Captura de Leads Frontend y Orquestación Web.
+64. **synergy_multipage_sales_engine.py**: Synergy Multi-Page Sales & Lab (Streamlit SPA Framework). Comercialización RaaS, Embudos de Conversión Frontend y Simulación Interactiva.
+65. **aislamiento_norberto.py**: Synergy Norberto Isolation (Firefox WebRTC Leak Shield). OPSEC, Sandboxing de Navegador y Prevención de Fugas de Red.
+66. **agente_trafficker_v5.py**: Synergy Trafficker V5 (Autonomous Cold Email Drip Engine). Outbound Sales, Cold Emailing Automatizado y Gestión de Campañas B2B.
+67. **agente_trafficker_v2_3.py**: Synergy Trafficker V2.3 (JSON X-Ray & Dynamic Payload Drip). Outbound Sales, Cold Emailing Automatizado y Extracción Dinámica.
+68. **perfilador_titanes.py**: Synergy Titans Profiler (Gumroad OSINT Extractor & Norberto Integration). OSINT de Creadores, Enriquecimiento de Leads y Scraping Estructural.
+69. **synergy_cameraman_session.sh**: Synergy Agent Cameraman (Automated Session Recorder & Launcher). DevOps Automation, VSL Production y Grabación de Demostraciones en Vivo.
+70. **mision_investigador_ia.py**: Synergy Advanced Researcher (CrewAI Content Strategist). Orquestación Multi-Agente, Prompt Engineering y automatización de archivos.
 ---
 
 *Todos los scripts en este repositorio han sido anonimizados, parametrizados dinámicamente y despojados de claves de API, payloads corporativos reales y credenciales de red para proteger la Propiedad Intelectual, los datos sensibles y el secreto comercial de la agencia operativa.*
