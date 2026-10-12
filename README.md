@@ -112,6 +112,7 @@ Operaciones de intercepción, análisis competitivo y social listening autónomo
 * **86. ares_delta_v2.py**: Synergy Ares Delta V2.1 (Deep Extraction & Pain Vacuum). OSINT profundo y extracción masiva de PII por Regex.
 * **90. ares_trafficker_v2.py**: Synergy Ares Trafficker V2 (Stateful OSINT Radar). Social Listening con gestión de estado en memoria y arquitectura desacoplada.
 * **95. goalkeeper.py**: Synergy Goalkeeper (Telegram Sales & Support Agent). Intercepción BoFu, Long Polling 24/7 y cierre de ventas multilingüe.
+* **101. mi_bot.py**: Synergy Community Greeter (Onboarding Bot). Lead Onboarding, Front-End Funnel y enrutamiento de tráfico B2B (Inline UI).
 
 ### 7. Outbound y Closers (outbound_y_closers/)
 Infraestructura de ventas, higiene de datos y distribución de correo en frío.
@@ -120,14 +121,14 @@ Infraestructura de ventas, higiene de datos y distribución de correo en frío.
 * **77. agente_depurador_v3.py**: Synergy Lead Refiner (Heuristic Data Cleanser). Filtrado Heurístico, Pandas Data Wrangling y Blacklist I/O.
 * **78. agente_depurador_v3_1.py**: Synergy Data Cleanser V3.1. Machine Auto-Learning, Whitelisting y Blacklist Dinámica.
 * **96. hermes.py**: Synergy Hermes Sentinel (HITL SMTP Dispatcher). Despacho seguro de Cold Emails con autorización humana e integración TLS/SSL.
-* **97. hermes_sniper.py**: Synergy Hermes Sniper (Autonomous Conditional Dispatcher). Copywriting dinámico, memoria de estado y cortafuegos Anti-Spam.
+* **97. hermes_sniper.py**: Synergy Hermes Sniper (Autonomous Conditional Dispatcher). Copywriting dinámico, memoria de estado y cortafuegos Anti-Spam Trap.
 * **98. hermes_vip.py**: Synergy Hermes VIP (High-Ticket HITL Dispatcher). Fricción táctica de entrega y validación de lazo cerrado para CEOs.
 
 ### 8. OSINT y Radar (osint_y_radar/)
 Inteligencia de fuentes abiertas, dorking y detección de señales de mercado.
 
 * **87. operacion_fantasma.py**: Synergy Ghost Navigator (HITL OSINT Scraper). Detección temprana de dolores SaaS y evasión WAF vía Human-In-The-Loop.
-* **88. ares_hacker_news.py**: Synergy Ares Hacker News (Y Combinator OSINT Radar). Ingestión nativa por API REST y heurística de palabras clave de baja latencia.
+* **88. ares_hacker_news.py**: Synergy Ares Hacker News (Y Combinator OSINT Radar). Ingestión nativa por API REST y heurística de palabras clave.
 * **89. ares_indiehackers.py**: Synergy Ares IndieHackers (Bootstrapper OSINT Radar). Spoofing de User-Agent e interceptación de intención comercial B2B.
 * **91. ares_vip.py**: Synergy VIP Hound (HITL Dorking Scraper). Prospección High-Ticket automatizada mediante Google Dorks e infiltración híbrida.
 
@@ -138,9 +139,13 @@ Ingeniería de confiabilidad (SRE), seguridad operativa (OPSEC) y monitoreo.
 * **75. agente_custodio.py**: Synergy Custodian Agent (FinOps & Telegram Alerter). Monitoreo de infraestructura financiera y notificaciones Push.
 * **82. agente_security.py**: Synergy Watchdog (IMAP Kill Switch). Protección de reputación de dominio, Process Isolation (pkill) y Telemetría.
 * **83. agente_sombra.py**: Synergy Shadow Agent (Air-Gap Dead Man's Switch). Aislamiento de red de emergencia y Zero-Trust Air-Gapping.
+* **102. builder_readme.py**: Synergy Auto-Documenter (Self-Healing File I/O). Automatización de documentación Markdown y reparación de catálogos.
 
 ### 10. Black Ops (black_ops/)
 Operaciones especiales, recuperación de activos y consultoría de alta disponibilidad.
 
-* **92. fenix_estratega.py**: Synergy Phoenix Strategist (Forensic Legal Agent). Consultoría legal/forense parametrizada para el marco jurídico argentino.
+* **92. fenix_estratega.py**: Synergy Phoenix Strategist (Forensic Legal Agent). Consultoría legal/forense parametrizada para el marco jurídico corporativo argentino.
 * **93. fenix_legal.py**: Synergy Phoenix Legal (High-Availability Counsel). Ruteo de inferencia en cascada (Claude/GPT-4o/LLaMA) para disponibilidad 100%.
+
+---
+*Todos los scripts en este repositorio han sido anonimizados, parametrizados dinámicamente y despojados de claves de API, payloads corporativos reales y credenciales de red para proteger la Propiedad Intelectual, los datos sensibles y el secreto comercial de la agencia operativa.*
