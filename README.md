@@ -91,6 +91,22 @@ El ecosistema subyacente que potencia estos motores se nutre de múltiples lengu
 68. **perfilador_titanes.py**: Synergy Titans Profiler (Gumroad OSINT Extractor & Norberto Integration). OSINT de Creadores, Enriquecimiento de Leads y Scraping Estructural.
 69. **synergy_cameraman_session.sh**: Synergy Agent Cameraman (Automated Session Recorder & Launcher). DevOps Automation, VSL Production y Grabación de Demostraciones en Vivo.
 70. **mision_investigador_ia.py**: Synergy Advanced Researcher (CrewAI Content Strategist). Orquestación Multi-Agente, Prompt Engineering y automatización de archivos.
----
+84. **agente_trafficker.py**: Synergy Competitor X-Ray (Trafficker Agent V1.0). Growth Hacking, análisis de competencia y extracción estructurada (JSON) vía OpenRouter.
+85. **ares_delta.py**: Synergy Ares Delta (Stealth OSINT Infiltrator). Evasión anti-bot (undetected-chromedriver) y parseo semántico de DOM.
+86. **ares_delta_v2.py**: Synergy Ares Delta V2.1 (Deep Extraction & Pain Vacuum). OSINT profundo, extracción masiva de PII por Regex y alimentación cualitativa.
+87. **operacion_fantasma.py**: Synergy Ghost Navigator (HITL OSINT Scraper). Detección temprana de dolores de mercado SaaS y evasión WAF vía Human-In-The-Loop.
+88. **ares_hacker_news.py**: Synergy Ares Hacker News (Y Combinator OSINT Radar). Ingestión nativa por API REST y heurística de palabras clave de ultra-baja latencia.
+89. **ares_indiehackers.py**: Synergy Ares IndieHackers (Bootstrapper OSINT Radar). Spoofing de User-Agent e interceptación de intención comercial B2B.
+90. **ares_trafficker_v2.py**: Synergy Ares Trafficker V2 (Stateful OSINT Radar). Social Listening con gestión de estado en memoria (Zero-Duplication) y arquitectura desacoplada.
+91. **ares_vip.py**: Synergy VIP Hound (HITL Dorking Scraper). Prospección High-Ticket automatizada mediante Google Dorks e infiltración híbrida.
+92. **fenix_estratega.py**: Synergy Phoenix Strategist (Forensic Legal Agent). Consultoría legal/forense parametrizada para el marco jurídico corporativo argentino.
+93. **fenix_legal.py**: Synergy Phoenix Legal (High-Availability Counsel). Ruteo de inferencia en cascada (Claude/GPT-4o/LLaMA) para disponibilidad 100% (Fault Tolerance).
+94. **forjador_blueprint.py**: Synergy Blueprint Forger (Lead Magnet Engine). Inbound Marketing, adopción de arquetipo "Trusted Advisor" y generación de activos Markdown.
+95. **goalkeeper.py**: Synergy Goalkeeper (Telegram Sales & Support Agent). Intercepción Bottom of Funnel (BoFu), Long Polling 24/7 y cierre de ventas multilingüe.
+96. **hermes.py**: Synergy Hermes Sentinel (HITL SMTP Dispatcher). Despacho seguro de Cold Emails con autorización humana e integración nativa TLS/SSL.
+97. **hermes_sniper.py**: Synergy Hermes Sniper (Autonomous Conditional Dispatcher). Copywriting dinámico, memoria de estado y cortafuegos heurístico Anti-Spam Trap.
+98. **hermes_vip.py**: Synergy Hermes VIP (High-Ticket HITL Dispatcher). Fricción táctica de entrega, enfriamiento de red extendido y validación de lazo cerrado para CEOs.
+99. **manager.py**: Synergy Niche Manager (Trinity Web Investigator). Web scraping de SERPs en tiempo real para validación de mercado e ideación de infoproductos B2B.
+100. **memoria.py**: Synergy Frontal Lobe (ChromaDB Vector Memory). Bases de datos vectoriales persistentes y recuperación semántica de alta dimensión (RAG Architecture).---
 
 *Todos los scripts en este repositorio han sido anonimizados, parametrizados dinámicamente y despojados de claves de API, payloads corporativos reales y credenciales de red para proteger la Propiedad Intelectual, los datos sensibles y el secreto comercial de la agencia operativa.*
