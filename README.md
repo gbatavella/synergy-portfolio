@@ -149,7 +149,7 @@ Operaciones especiales, recuperación de activos y consultoría de alta disponib
 * **92. fenix_estratega.py**: Synergy Phoenix Strategist (Forensic Legal Agent). Consultoría legal/forense parametrizada para el marco jurídico corporativo argentino.
 * **93. fenix_legal.py**: Synergy Phoenix Legal (High-Availability Counsel). Ruteo de inferencia en cascada (Claude/GPT-4o/LLaMA) para disponibilidad 100%.
 * **105. fenix_graph_rag.py**: Synergy Fénix GraphRAG (In-Memory Legal Matrix). Indexación vectorial en RAM (Meta FAISS) y grafos de conocimiento legal.
-* **105. fenix_graph_rag.py**: Synergy Fénix GraphRAG (In-Memory Legal Matrix). Indexación vectorial en RAM (Meta FAISS) y grafos de conocimiento legal.
+
 
 
 ---
