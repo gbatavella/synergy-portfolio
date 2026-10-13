@@ -140,6 +140,8 @@ Ingeniería de confiabilidad (SRE), seguridad operativa (OPSEC) y monitoreo.
 * **82. agente_security.py**: Synergy Watchdog (IMAP Kill Switch). Protección de reputación de dominio, Process Isolation (pkill) y Telemetría.
 * **83. agente_sombra.py**: Synergy Shadow Agent (Air-Gap Dead Man's Switch). Aislamiento de red de emergencia y Zero-Trust Air-Gapping.
 * **102. builder_readme.py**: Synergy Auto-Documenter (Self-Healing File I/O). Automatización de documentación Markdown y reparación de catálogos.
+* **104. radar_google.py**: Synergy Model Radar (Google GenAI Scanner). Escáner de infraestructura para listar modelos activos de Google AI Studio.
+
 
 ### 10. Black Ops (black_ops/)
 Operaciones especiales, recuperación de activos y consultoría de alta disponibilidad.
