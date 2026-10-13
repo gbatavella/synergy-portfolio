@@ -113,7 +113,7 @@ Operaciones de intercepción, análisis competitivo y social listening autónomo
 * **90. ares_trafficker_v2.py**: Synergy Ares Trafficker V2 (Stateful OSINT Radar). Social Listening con gestión de estado en memoria y arquitectura desacoplada.
 * **95. goalkeeper.py**: Synergy Goalkeeper (Telegram Sales & Support Agent). Intercepción BoFu, Long Polling 24/7 y cierre de ventas multilingüe.
 * **101. mi_bot.py**: Synergy Community Greeter (Onboarding Bot). Lead Onboarding, Front-End Funnel y enrutamiento de tráfico B2B (Inline UI).
-
+* **103. motor_telegram.py**: Synergy Cyborg Agent (Stateful RAG Telegram Bot). Soporte Autónomo de Largo Plazo, Retención de Contexto y Continuous Learning.
 ### 7. Outbound y Closers (outbound_y_closers/)
 Infraestructura de ventas, higiene de datos y distribución de correo en frío.
 
