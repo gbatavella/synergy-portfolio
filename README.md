@@ -133,6 +133,7 @@ Infraestructura de ventas, higiene de datos y distribución de correo en frío.
 * **112. synergy_anglo/app.py**: Synergy Anglo Landing Page. Plataforma frontend de conversión pura y enrutamiento hacia pasarelas de pago Lemon Squeezy, optimizada para el mercado anglosajón.
 * **115. synergy_english_communicator_v2.py**: Synergy English Communicator V2. Evolución del tutor de idiomas, incorporando memoria persistente JSON y mitigación de fricciones de I/O en la terminal (secuestro de teclado) durante la reproducción de Google TTS.
 * **116. synergy_english_profiler.py**: Synergy English Profiler. Sistema de diagnóstico progresivo que evalúa fluidez técnica B2B y sintetiza reportes de nivel CEFR y planes de estudio de 30 días.
+* **118. synergy_sap_sales_rep.py**: Synergy SAP Sales REP. Agente de ventas B2B que combina vectorización local In-Memory (FAISS + SentenceTransformers) para buscar inventario corporativo (ERP) en milisegundos, y generación de pitches de cierre con Gemini 2.5.
 
 
 ### 8. OSINT y Radar (osint_y_radar/)
