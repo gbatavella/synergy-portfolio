@@ -123,6 +123,8 @@ Infraestructura de ventas, higiene de datos y distribución de correo en frío.
 * **96. hermes.py**: Synergy Hermes Sentinel (HITL SMTP Dispatcher). Despacho seguro de Cold Emails con autorización humana e integración TLS/SSL.
 * **97. hermes_sniper.py**: Synergy Hermes Sniper (Autonomous Conditional Dispatcher). Copywriting dinámico, memoria de estado y cortafuegos Anti-Spam Trap.
 * **98. hermes_vip.py**: Synergy Hermes VIP (High-Ticket HITL Dispatcher). Fricción táctica de entrega y validación de lazo cerrado para CEOs.
+* **110. reddit_copilot_hitl.py**: Synergy Copilot HITL. Asistente de inteligencia comercial con Control Dual (Infiltración/Misil) y filtro ético para responder a dolores de mercado en Reddit.
+
 
 ### 8. OSINT y Radar (osint_y_radar/)
 Inteligencia de fuentes abiertas, dorking y detección de señales de mercado.
