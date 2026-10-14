@@ -142,6 +142,7 @@ Ingeniería de confiabilidad (SRE), seguridad operativa (OPSEC) y monitoreo.
 * **102. builder_readme.py**: Synergy Auto-Documenter (Self-Healing File I/O). Automatización de documentación Markdown y reparación de catálogos.
 * **104. radar_google.py**: Synergy Model Radar (Google GenAI Scanner). Escáner de infraestructura para listar modelos activos de Google AI Studio.
 * **106. smtp_validator.py**: Synergy SMTP Validator. Diagnóstico táctico de credenciales de aplicación y conectividad TLS con servidores de Gmail.
+* **107. google_api_validator.py**: Synergy Google API Validator. Dron de diagnóstico para validación de tokens de acceso e inferencia básica contra el clúster de Google AI Studio.
 
 
 ### 10. Black Ops (black_ops/)
