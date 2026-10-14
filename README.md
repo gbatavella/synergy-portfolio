@@ -124,6 +124,7 @@ Infraestructura de ventas, higiene de datos y distribución de correo en frío.
 * **97. hermes_sniper.py**: Synergy Hermes Sniper (Autonomous Conditional Dispatcher). Copywriting dinámico, memoria de estado y cortafuegos Anti-Spam Trap.
 * **98. hermes_vip.py**: Synergy Hermes VIP (High-Ticket HITL Dispatcher). Fricción táctica de entrega y validación de lazo cerrado para CEOs.
 * **110. reddit_copilot_hitl.py**: Synergy Copilot HITL. Asistente de inteligencia comercial con Control Dual (Infiltración/Misil) y filtro ético para responder a dolores de mercado en Reddit.
+* **112. synergy_anglo/app.py**: Synergy Anglo Landing Page. Plataforma frontend de conversión pura y enrutamiento hacia pasarelas de pago Lemon Squeezy, optimizada para el mercado anglosajón.
 
 
 ### 8. OSINT y Radar (osint_y_radar/)
