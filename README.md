@@ -131,6 +131,8 @@ Inteligencia de fuentes abiertas, dorking y detección de señales de mercado.
 * **88. ares_hacker_news.py**: Synergy Ares Hacker News (Y Combinator OSINT Radar). Ingestión nativa por API REST y heurística de palabras clave.
 * **89. ares_indiehackers.py**: Synergy Ares IndieHackers (Bootstrapper OSINT Radar). Spoofing de User-Agent e interceptación de intención comercial B2B.
 * **91. ares_vip.py**: Synergy VIP Hound (HITL Dorking Scraper). Prospección High-Ticket automatizada mediante Google Dorks e infiltración híbrida.
+* **109. reddit_looking_glass.py**: Synergy Looking Glass (OSINT Reddit Captador). Motor de inteligencia de fuentes abiertas basado en DuckDuckGo para raspar foros, detectar dolores de mercado y capturar leads.
+
 
 ### 9. DevOps y Core (devops_y_core/)
 Ingeniería de confiabilidad (SRE), seguridad operativa (OPSEC) y monitoreo.
