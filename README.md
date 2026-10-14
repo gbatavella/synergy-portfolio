@@ -103,6 +103,8 @@ Orquestación cognitiva, ideación de infoproductos y estrategia de contenido B2
 * **94. forjador_blueprint.py**: Synergy Blueprint Forger (Lead Magnet Engine). Adopción de arquetipo "Trusted Advisor" y generación de activos Markdown.
 * **99. manager.py**: Synergy Niche Manager (Trinity Web Investigator). Web scraping de SERPs en tiempo real para validación de mercado e ideación B2B.
 * **100. memoria.py**: Synergy Frontal Lobe (ChromaDB Vector Memory). Bases de datos vectoriales persistentes y recuperación semántica (RAG Architecture).
+* **113. agente_content_forge.py**: Synergy Content Forge. Creador literario neuronal paramétrico para la síntesis, redacción y estructuración Markdown de infoproductos (E-books) orientados a Amazon KDP.
+
 
 ### 6. Agentes Telegram (agentes_telegram/)
 Operaciones de intercepción, análisis competitivo y social listening autónomo.
