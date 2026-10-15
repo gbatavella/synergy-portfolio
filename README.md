@@ -162,6 +162,7 @@ Ingeniería de confiabilidad (SRE), seguridad operativa (OPSEC) y monitoreo.
 * **108. openrouter_load_balancer.py**: Synergy OpenRouter Load Balancer. Enrutador global de inferencia y balanceo de carga para alta disponibilidad de modelos LLM.
 * **111. model_capabilities_radar.py**: Synergy Capabilities Radar. Dron de escaneo de Google AI Studio con filtro estricto por métodos de generación (generateContent) para evitar errores de ruteo en agentes cognitivos.
 * **121. synergy_mcp_inspector.py**: Synergy MCP Inspector. Cliente de extracción JSON-RPC para interactuar con servidores locales del Model Context Protocol y aislar catálogos de herramientas.
+* **122. synergy_mcp_executor.py**: Synergy MCP Executor. Cliente JSON-RPC táctico para la ejecución remota de herramientas MCP, integrando búsqueda semántica local contra los grafos de NotebookLM.
 
 
 ### 10. Black Ops (black_ops/)
