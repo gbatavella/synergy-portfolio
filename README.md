@@ -1,15 +1,25 @@
 # ⚡ Synergy AI: Autonomous Agents & B2B Architecture
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
 
-Bienvenido a la bóveda de infraestructura de **Synergy Humans & AI Agents**. Este repositorio funciona como un escaparate de alto nivel arquitectónico, demostrando la lógica de despliegue, orquestación y evasión de flotas de agentes autónomos para la automatización B2B, B2C y Operaciones Cuantitativas.
+## 🚨 ¿Tus agentes de IA están quemando los dominios de tu empresa?
+Bienvenido a la bóveda de infraestructura de **Synergy Humans & AI Agents**. 
 
+En la desesperación por generar leads, los equipos comerciales utilizan herramientas de IA no supervisadas que terminan estrellándose contra los filtros de SPAM de Google (Shadow IT). Un dominio "quemado" significa perder la comunicación con tus propios clientes.
+
+Este repositorio funciona como un escaparate de nuestra **arquitectura Outbound Inmune**, demostrando la lógica de orquestación y evasión para operaciones B2B bajo el radar.
+
+### 🛡️ Despliegue Corporativo (Malla de Gobernanza)
+El código expuesto a continuación es solo el 20% del sistema. Para acceder a la implementación corporativa completa, las normativas de seguridad IT y los scripts avanzados de NER Local (Protocolo Hansel & Gretel), accede al manual técnico de 780 páginas:
+
+👉 **[Adquirir el Protocolo Completo en Amazon](https://www.amazon.com/dp/B0HRVFLPD3)**
+
+---
 ## 🧠 Core Tech Stack & Paradigms
 
 El ecosistema subyacente que potencia estos motores se nutre de múltiples lenguajes y arquitecturas de frontera para garantizar concurrencia, seguridad y baja latencia en producción:
